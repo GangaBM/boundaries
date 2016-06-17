@@ -1,0 +1,20 @@
+.jumbotron{
+	background: url('../images/leadspace-bg.jpg') no-repeat;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height: 440px;
+}
+
+.navbar{
+	min-height:100px;
+	margin-bottom: 0px;
+}
+
+.house-details{
+	height: 310px;
+	width: 240px;
+	box-shadow: 0px 8px 10px gray;
+	margin-bottom: 20px;
+}
