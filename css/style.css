@@ -1,10 +1,11 @@
-.jumbotron{
+.jumbotron_bg{
 	background: url('../images/leadspace-bg.jpg') no-repeat;
    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 	height: 440px;
+	margin-bottom: 0px;
 }
 
 .navbar{
@@ -12,23 +13,40 @@
 	margin-bottom: 0px;
 }
 
+.main_wrapper {
+	background-color: #f8f8f8;
+}
 .house-details{
 	height: 310px;
 	width: 240px;
-	box-shadow: 0px 8px 10px gray;
+	box-shadow: 0px 2px 2px gray;
 	margin-bottom: 20px;
 }
 
+.padding{
+	padding: 20px;
+}
 .agent{
 	width: 240px;
 	height: 93px;
-	box-shadow: 0px 2px 4px gray;
+	box-shadow: 0px 2px 2px gray;
 	margin-bottom: 10px;
 }
 
 .property{
 	width: 240px;
 	height: 93px;
-	box-shadow: 0px 2px 4px gray;
+	box-shadow: 0px 2px 2px gray;
 	margin-bottom: 10px;
 }
+
+footer{
+	height:380px;
+	background: #222222;
+	color: #f8f8f8;;
+}
+
+.upper_section{
+	height: 228px;
+}
+
